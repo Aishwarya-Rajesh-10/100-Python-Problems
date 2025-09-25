@@ -8,4 +8,4 @@ elif b>a and b>c:
 elif c>a and c>b:
     print("Largest number is c",c)
 else:
-    print("invalild number")
+    print("invalid number")
